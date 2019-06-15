@@ -1,0 +1,13 @@
+.slider {
+    width: 100%;
+}
+
+.play-btn-div{
+    text-align: center;
+    margin-top: 2vh;
+}
+
+.play-btn {
+    color: #4d148c;
+    cursor: pointer;
+}
